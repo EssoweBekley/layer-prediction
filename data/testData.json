@@ -1,0 +1,116 @@
+{
+  "queryCost": 1,
+  "latitude": 41.4215,
+  "longitude": -75.6646,
+  "resolvedAddress": "Storrs Ct, Scranton, PA 18508, United States",
+  "address": "Storrs, CT",
+  "timezone": "America/New_York",
+  "tzoffset": -4,
+  "days": [
+    {
+      "datetime": "2025-08-31",
+      "temp": 58.8,
+      "humidity": 64.5,
+      "windspeedmean": 4.9,
+      "conditions": "Clear"
+    },
+    {
+      "datetime": "2025-09-01",
+      "temp": 60.7,
+      "humidity": 67.1,
+      "windspeedmean": 4.5,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-02",
+      "temp": 61,
+      "humidity": 70,
+      "windspeedmean": 2.2,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-03",
+      "temp": 63.6,
+      "humidity": 65.4,
+      "windspeedmean": 3.5,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-04",
+      "temp": 64.6,
+      "humidity": 71.8,
+      "windspeedmean": 9.2,
+      "conditions": "Rain, Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-05",
+      "temp": 63.3,
+      "humidity": 82.3,
+      "windspeedmean": 8.2,
+      "conditions": "Rain, Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-06",
+      "temp": 62,
+      "humidity": 71.2,
+      "windspeedmean": 7.6,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-07",
+      "temp": 57.7,
+      "humidity": 66,
+      "windspeedmean": 5.8,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-08",
+      "temp": 54.6,
+      "humidity": 63.2,
+      "windspeedmean": 5.6,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-09",
+      "temp": 56.7,
+      "humidity": 63.9,
+      "windspeedmean": 3.4,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-10",
+      "temp": 67.9,
+      "humidity": 78.5,
+      "windspeedmean": 9.1,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-11",
+      "temp": 58.6,
+      "humidity": 90.2,
+      "windspeedmean": 6.5,
+      "conditions": "Partially cloudy"
+    },
+    {
+      "datetime": "2025-09-12",
+      "temp": 54,
+      "humidity": 70.9,
+      "windspeedmean": 5.1,
+      "conditions": "Clear"
+    },
+    {
+      "datetime": "2025-09-13",
+      "temp": 52.8,
+      "humidity": 68.6,
+      "windspeedmean": 5.1,
+      "conditions": "Clear"
+    },
+    {
+      "datetime": "2025-09-14",
+      "temp": 48.6,
+      "humidity": 59.6,
+      "windspeedmean": 3.7,
+      "conditions": "Clear"
+    }
+  ]
+}

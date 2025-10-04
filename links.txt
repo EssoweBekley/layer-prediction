@@ -1,0 +1,4 @@
+Weather API
+# https://www.visualcrossing.com/weather-api
+https://scikit-learn.org/stable/user_guide.html
+# https://dev.mysql.com/doc/connector-python/en/
